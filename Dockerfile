@@ -1,3 +1,4 @@
+# Automated Build Testing
 FROM ubuntu:14.04 
 2 MAINTAINER Docker Education Team <education@docker.com> 
 3 RUN apt-get update 
